@@ -8,7 +8,7 @@ I'm a passionate developer from Portugal with a love for systems programming and
 - I'm continuously learning **Rust**, **C programming**, and **system-level development**
 - I'm looking to collaborate on **open-source projects** and **system programming**
 - Ask me about **Rust**, **C**, **System Programming**, **IPC**, and **Win32 API**
-- How to reach me: **[LinkedIn](https://linkedin.com/in/ernesto-cruz)** | **ernesto.cruz@example.com**
+- How to reach me: **[LinkedIn](https://linkedin.com/in/ernesto-cruz)** | **ernestobritocruz05@gmail.com**
 - Fun fact: I love building CLI tools and exploring inter-process communication!
 
 ##  Technologies & Tools
