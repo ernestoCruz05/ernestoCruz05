@@ -1,4 +1,4 @@
-# Hi, Ernesto Cruz
+# Hi, I'm Ernesto Cruz
 ### Systems Programmer | Network Engineer | Full Stack Developer
 
 I am a software engineer focused on **systems architecture**, **OS internals**, and **network protocols**. I specialize in building performant backend services in **Rust** and **C**, while maintaining the ability to deliver comprehensive frontend solutions using **.NET** and **React**.
@@ -24,7 +24,7 @@ I run my own infrastructure. My portfolio is self-hosted on a home server I arch
 
 ---
 
-### Selected Engineering Projects
+### Projects i made
 
 #### [RustyRoom](https://github.com/ernestocruz05/rustyroom)
 > *Rust, TUI, Network Audio, SQLite*
